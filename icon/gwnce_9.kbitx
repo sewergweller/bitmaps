@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE kbits PUBLIC "-//Kreative//DTD BitsNPicasBitmap 1.0//EN" "http://www.kreativekorp.com/dtd/kbitx.dtd">
 <kbits>
-<prop id="emAscent" value="4"/>
-<prop id="emDescent" value="8"/>
+<prop id="emAscent" value="8"/>
+<prop id="emDescent" value="4"/>
 <prop id="lineAscent" value="8"/>
 <prop id="lineDescent" value="4"/>
 <prop id="lineGap" value="0"/>
-<prop id="xHeight" value="0"/>
-<prop id="capHeight" value="0"/>
+<prop id="xHeight" value="3"/>
+<prop id="capHeight" value="2"/>
+<prop id="newGlyphWidth" value="0"/>
 <name id="1" value="gwnce"/>
 <name id="2" value="Regular"/>
+<name id="3" value="BitsNPicas: gwnce: 2026"/>
+<name id="4" value="gwnce"/>
+<name id="5" value="Version 1.0"/>
+<name id="6" value="gwnce"/>
 <name id="8" value="sewergweller"/>
+<name id="11" value="http://www.kreativekorp.com/software/bitsnpicas/"/>
+<g u="32" x="0" y="0" w="7" d="AAA"/>
 <g u="57344" x="0" y="7" w="9" d="CQkEQQVCwwD/AEICQQJBAsP/AP8DQQNCA0EDQgfD/wD/BUECQgNCBEMD"/>
 <g u="57345" x="0" y="7" w="9" d="CQkERAJCAkIDQQPF/wD/AP8HQgdCB8P/AP8FQQJCA0IEQwM"/>
 <g u="57346" x="0" y="7" w="9" d="CQkEQglCB0IHRAVEBEQBRwJHBEMD"/>
@@ -76,4 +83,15 @@
 <g u="57406" x="0" y="7" w="9" d="CQlhRAlFAUgBSAFIAUM"/>
 <g u="57407" x="0" y="7" w="9" d="CQlEAUgBSAFIAUgBSAVEAUgBSAFE"/>
 <g u="57408" x="0" y="7" w="9" d="CQlEAUgBSAFIAUgBRAVIAUgBSAFE"/>
+<g u="57409" x="0" y="7" w="9" d="CQlCAUMBQwdBAkUCwv8ARQFCAUUBQgFFwgD/AkUCQQdDAUMBQg"/>
+<g u="57410" x="0" y="7" w="9" d="CQnC/wBFAUIBRQFCAUUBQgFFAUIBRQFCAUUBQgFFAUIBRQFCAUXCAP8"/>
+<g u="57411" x="0" y="7" w="9" d="CQlEAUgBSAFIAUQJRMIA/wNExQD/AP8ARAFIA8L/AA"/>
+<g u="57412" x="0" y="7" w="9" d="CQlEAUgBSAFIAUQJRAFDAUQDwv8ARAJHA8L/AA"/>
+<g u="57413" x="0" y="7" w="9" d="CQlhRAlFwwD/AEbDAP8ARsMA/wBGxAD/AP8"/>
+<g u="57414" x="0" y="7" w="9" d="CQlEAUgBSAFIAUgBSAVEAUgFRAFE"/>
+<g u="57415" x="0" y="7" w="9" d="CQlJCWFNCUk"/>
+<g u="57416" x="0" y="7" w="9" d="CQlCAUMBRAFDAUQBQwFEAUMBQgNDA0IBQwFEAUMBRAFDAUQBQwFC"/>
+<g u="57417" x="0" y="7" w="9" d="CQlEAUgBSAFIAUgFRAFCAUUBQgFFAUICRAFCwgD/"/>
+<g u="57418" x="0" y="7" w="9" d="CQlCAUIBRQFCAUUBQgFFAUIKRQFCAUUBQgRCAUIBRQFCAUM"/>
+<g u="57419" x="0" y="7" w="9" d="CQlEAUgBRAlEAUgBRAlDAUIBRQFCAUUBQgFC"/>
 </kbits>
